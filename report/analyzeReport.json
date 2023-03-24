@@ -1,8 +1,25 @@
 {
   "isScanChange": true,
   "changedFilesNodes": {
-    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared/index.ts": [],
-    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared/utils.ts": []
+    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared/index.ts": [
+      "Person",
+      "Address"
+    ]
   },
-  "importItemMap": {}
+  "importItemMap": {
+    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/src/exampleA.ts": {
+      "Person1": {
+        "importPath": "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared",
+        "name": "Person1",
+        "originName": "Person",
+        "pos": 101,
+        "end": 119,
+        "useDefault": false,
+        "callLines": [
+          4,
+          31
+        ]
+      }
+    }
+  }
 }
