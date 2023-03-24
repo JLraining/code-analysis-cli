@@ -1,0 +1,10 @@
+{
+  "changedFiles": [
+    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared/index.ts",
+    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared/utils.ts"
+  ],
+  "changedFilesNodes": {
+    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared/index.ts": [],
+    "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared/utils.ts": []
+  }
+}
