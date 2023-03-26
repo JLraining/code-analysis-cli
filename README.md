@@ -7,6 +7,7 @@ During the development process, it is common to modify shared code. For a simple
 This tool can help scan the code changes in files and where they are referenced in the project.
 
 config
+
 ![image](https://user-images.githubusercontent.com/13096392/227775908-150d05ee-479c-4bf4-80e2-e402d396366f.png)
 
 
