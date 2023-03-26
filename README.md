@@ -27,6 +27,6 @@ Details: https://jlraining.github.io/code+analysis.html
 
 ## Try it with demo 
 * change demo/shared code
-* `code-analysis-cli run`
+* `code-analysis-cli run` analyze the change
 
 
