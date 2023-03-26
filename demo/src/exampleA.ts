@@ -2,7 +2,7 @@
 import foo from '../shared';
 import * as foo1 from '../shared';
 import { Person as Person1 } from '@shared';
-import { Address } from '/Users/li.jiang/code/rn-2.x/sea-cli/src/test/shared/index.ts';
+import { Address } from '@shared';
 
 // Define an enum type
 enum Color {

@@ -2,14 +2,14 @@ const foo = () => {};
 // Define an interface
 export interface Person {
   name: string;
-  age: number;
+  age2: number;
 }
 
 // Define a type alias
 export type Address = {
   street: string;
   city: string;
-  zipCode: number;
+  zipCode22: number;
 };
 
 export default foo;

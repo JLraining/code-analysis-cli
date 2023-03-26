@@ -19,6 +19,20 @@
           4,
           31
         ]
+      },
+      "Address": {
+        "importPath": "/Users/li.jiang/my-github-repo/code-analysis-cli/demo/shared",
+        "name": "Address",
+        "originName": "Address",
+        "pos": 146,
+        "end": 154,
+        "useDefault": false,
+        "callLines": [
+          5,
+          32,
+          38,
+          39
+        ]
       }
     }
   }
